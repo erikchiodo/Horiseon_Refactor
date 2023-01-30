@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -16,17 +16,18 @@ body {
 
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-span {
+/* Removed class attribute (seo) */
+span{
     color: #d9dcd6;
 }
 
 /* Changed div to nav to apply proper style to nav labels */
-.header nav { 
+header nav { 
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,12 +36,12 @@ span {
 }
 
 /* Changed div to nav to apply proper style to nav labels */
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* Changed div to nav to apply proper style to nav labels */
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,23 +51,8 @@ a {
     text-decoration: none;
 }
 
-/* Consolidated main section (one stance of h3, img, and main class formatting*/
-main {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-main img {
-    max-height: 200px;
-}
-
-main h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+p {
+    font-size: 16px;
 }
 
 figure {
@@ -76,16 +62,6 @@ figure {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-p {
-    font-size: 16px;
 }
 
 .float-left {
@@ -98,7 +74,32 @@ p {
     margin-left: 25px;
 }
 
-.benefits {
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Consolidated down to one class called first_section*/
+.first_section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.first_section img {
+    max-height: 200px;
+}
+
+.first_section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -108,19 +109,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-/* Consolidated Benefit Aside Block Styling (one instance of h3, img, and main class formatting */
-.benefit_aside {
+/* Consolidated down to one class called second_section*/
+.second_section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit_aside h3 {
+.second_section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit_aside img {
+.second_section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
