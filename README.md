@@ -23,11 +23,11 @@ GIVEN a wepage meets accessibility criteria:
 
 ## Screenshot
 
-![Screenshot1] (/assets/images/Screenshot_1.png)
+![Screenshot1] (assets/images/Screenshot_1.png)
 
-![Screenshot2] (/assets/images/Screenshot_2.png)
+![Screenshot2] (assets/images/Screenshot_2.png)
 
-![Screenshot3] (/assets/images/Screenshot_3.png)
+![Screenshot3] (assets/images/Screenshot_3.png)
 
 
 ## Links
