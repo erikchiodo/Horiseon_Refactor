@@ -1,6 +1,6 @@
 # Horiseon_Refactor
 
-##Description
+## Description
 
 The goal of this Challenge was to accomplish the follow Acceptance Criteria:
 
@@ -21,15 +21,16 @@ GIVEN a wepage meets accessibility criteria:
     >WHEN I view the heading attributes
     >THEN they fall in sequential order
 
-##Screenshot
-![Screenshot1]./assets/iamges/Screenshot_1.png
+## Screenshot
 
-![Screenshot2]./assets/iamges/Screenshot_2.png
+![Screenshot1] ./assets/images/Screenshot_1.png
 
-![Screenshot3]./assets/iamges/Screenshot_3.png
+![Screenshot2] ./assets/images/Screenshot_2.png
+
+![Screenshot3] ./assets/images/Screenshot_3.png
 
 
-##Links
+## Links
 
 **Link to deployed application**: [Deployed App](https://erikchiodo.github.io/Horiseon_Refactor)
 
