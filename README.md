@@ -23,11 +23,11 @@ GIVEN a wepage meets accessibility criteria:
 
 ## Screenshot
 
-![Screenshot1] (assets/images/Screenshot_1.png)
+![Screenshot_1](https://user-images.githubusercontent.com/122952630/216194326-b604f56c-27f0-44fd-9d38-2346db2b4323.png)
 
-![Screenshot2] (assets/images/Screenshot_2.png)
+![Screenshot_2](https://user-images.githubusercontent.com/122952630/216195163-e341fd27-6243-4fb5-b7b9-9b0dc6ebd727.png)
 
-![Screenshot3] (assets/images/Screenshot_3.png)
+![Screenshot_3](https://user-images.githubusercontent.com/122952630/216195243-da3ed9b6-0532-47fb-b98a-bfa80daf032a.png)
 
 
 ## Links
